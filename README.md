@@ -1,5 +1,5 @@
 
-# Continuous Integration for a Node JS app
+# Continuous Integration for a Node JS application
 [![Run Status](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/badge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
 [![Coverage Badge](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/coverageBadge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
 
